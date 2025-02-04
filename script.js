@@ -24,6 +24,6 @@ document.addEventListener("DOMContentLoaded", function () {
     });
 
     document.querySelector('.yes-button').addEventListener("click", function () {
-        window.location.href = "/HowDeepIsYourLoveU/yes_page.html";  // Use your repo name
+        window.location.href = "/HowDeepIsYourLove/yes_page.html";  // Use your repo name
     });
 });
